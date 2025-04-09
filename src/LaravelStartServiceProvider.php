@@ -2,9 +2,9 @@
 
 namespace Itstudio\LaravelStart;
 
+use Itstudio\LaravelStart\Commands\LaravelStartCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Itstudio\LaravelStart\Commands\LaravelStartCommand;
 
 class LaravelStartServiceProvider extends PackageServiceProvider
 {
