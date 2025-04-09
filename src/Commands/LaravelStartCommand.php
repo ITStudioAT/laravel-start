@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Itstudio\LaravelStart\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LaravelStartCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-start';
 
     public $description = 'My command';
 
